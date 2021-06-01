@@ -1,0 +1,2 @@
+# Scheduling_problem_and_linear_programming
+Solving bus scheduling problem using linear programming
